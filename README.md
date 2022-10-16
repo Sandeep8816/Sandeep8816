@@ -1,8 +1,7 @@
 - 👋 Hi, I’m 
 # Sandeep Sharma ✌️
 - 🏠 Rewari, Haryana
-- 👀 Web Developer
-- 👨‍💻 HTML5, CSS3, JAVASCRIPT, WORDPRESS Development 
+- 👨‍💻 ANDROID APP DEVELOPER | JAVA & KOTLIN DEVELOPMENT
 - 🌱 B.Tech (Computer Science)
 - 🏫 Guru Jambheshwar University of Science and Technology, Hisar
 - 📫 sandeep.ss88162.ss@gmail.com
